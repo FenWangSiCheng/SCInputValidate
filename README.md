@@ -4,7 +4,7 @@
 项目采用策略设计模式只需两行代码完成验证及提示（提示框集成了第三方SVProgressHUD需要导入）
 
 ### 设计模式
-[策略设计模式UML图]
+[策略设计模式UML图]/Users/abon/Desktop/46E134ED0AC8113EC1ED14DA30B97065.png
 
 ### 使用说明
 - 1在viewDidLoad初始化验证类
