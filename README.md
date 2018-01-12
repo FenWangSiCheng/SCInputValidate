@@ -3,7 +3,10 @@
 
 项目采用策略设计模式只需两行代码完成验证及提示（提示框集成了第三方SVProgressHUD需要导入）
 
-###使用说明
+### 设计模式
+[策略设计模式UML图]
+
+### 使用说明
 - 1在viewDidLoad初始化验证类
 ```
 - (void)viewDidLoad {
@@ -36,5 +39,4 @@ static NSString * const IdentifieCardEmpty = @"身份证不能为空";
 static NSString * const IdentifieCardError = @"请输入有效省份证号码";
 static NSString * const EmailEmpty = @"邮箱不能为空";
 static NSString * const EmailError = @"请输入正确的邮箱格式";
-
 ```
